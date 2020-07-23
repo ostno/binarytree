@@ -1,2 +1,6 @@
-# ts-playground
-For typescript / javascript TDD katas
+# Binary tree exercise
+
+To test :
+
+$npm i
+$jest
